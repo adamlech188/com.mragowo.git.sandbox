@@ -10,6 +10,7 @@ public class Application {
 		//hotfix
 		//iss53
 		//Finished working on iss53
+		//Merge 1
 		SpringApplication.run(Application.class, args);
 		/*
 		 * Experiment 
