@@ -17,6 +17,5 @@ public class Application {
 		 * Experiment 
 		 */
 		//Experiment 2
-		//Hotfix 2
 	}
 }
